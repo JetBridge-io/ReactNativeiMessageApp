@@ -41,7 +41,7 @@ ReactNativeiMessageApp is a Xcode template project for iMessage Application whic
 Repository clone url : {Enter your github repository}
 Repository - github token : {Enter your github token}
 ~~~
-* Guthub token can be created from this [link.](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
+* Github token can be created from this [link.](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
 
 ### Release ###
 * `release` command will pull your sources from the github and build it.
